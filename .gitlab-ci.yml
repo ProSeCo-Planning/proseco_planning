@@ -1,0 +1,89 @@
+stages:
+  - check
+  - build
+  - test
+
+image: karlkurzer/proseco:ci
+
+#################################################################################
+#                            CHECKS
+#################################################################################
+catkin_lint_check:
+  stage: check
+  script:
+    - catkin_lint -W3 --strict .
+  dependencies: []
+  allow_failure: true
+
+cpp_check:
+  stage: check
+  script:
+    - cppcheck --enable=all --std=c++14 --suppress=missingIncludeSystem  src/
+  dependencies: []
+  allow_failure: true
+
+clang_format_check:
+  stage: check
+  script:
+    - \find . -iname *.h -o -iname *.cpp | xargs clang-format-10 -style=file -verbose
+  dependencies: []
+  allow_failure: true
+
+clang_tidy_check:
+  stage: check
+  variables:
+    CC: clang-10
+    CXX: clang++-10
+  before_script:
+    - git clone --depth 1 https://gitlab-ci-token:${CI_JOB_TOKEN}@git.scc.kit.edu/atks/continuous-integration.git
+    - mv continuous-integration/clang-tidy/* ${CI_PROJECT_DIR}
+    - git submodule update --init --recursive --depth 1
+  script:
+    - cmake -DCMAKE_EXPORT_COMPILE_COMMANDS=ON ${CI_PROJECT_DIR}
+    - python3 run-clang-tidy.py -Werror -clang-tidy-binary=clang-tidy-10
+  dependencies: []
+  allow_failure: true
+
+#################################################################################
+#                            BUILD
+#################################################################################
+build_proseco_lib:
+  stage: build
+  script:
+    - source /opt/ros/noetic/setup.bash
+    - git submodule update --init --recursive
+    - mkdir -p catkin_ws/src/proseco_planning
+    - ls | grep -v catkin_ws | xargs mv -t catkin_ws/src/proseco_planning
+    - ls catkin_ws/src
+    - cd catkin_ws/src
+    - >
+      if (git clone --depth 1 --branch $CI_COMMIT_REF_NAME \
+        --recurse-submodules \
+        --shallow-submodules \
+        https://gitlab-ci-token:${CI_JOB_TOKEN}@git.scc.kit.edu/atks/dfg/ros_proseco_planning.git); then
+        echo "Fetching ros_proseco_planning from branch $CI_COMMIT_REF_NAME."
+      else
+        echo -e "\e[1m\e[91mWARNING\e[0m: Could not fetch ros_proseco_planning from branch $CI_COMMIT_REF_NAME."
+        echo "Fetching develop instead."
+        git clone --depth 1 --branch develop \
+          --recurse-submodules \
+          --shallow-submodules \
+          https://gitlab-ci-token:${CI_JOB_TOKEN}@git.scc.kit.edu/atks/dfg/ros_proseco_planning.git
+      fi
+    - cd .. && catkin_make_isolated -DCMAKE_BUILD_TYPE=RELEASE -DPROSECO_RUN_TEST=ON
+  artifacts:
+    paths:
+      - catkin_ws
+    expire_in: 1 day
+
+#################################################################################
+#                            TEST
+#################################################################################
+test_proseco:
+  stage: test
+  before_script:
+    - source catkin_ws/devel_isolated/setup.bash
+    - cd catkin_ws/src/ros_proseco_planning/python && python3 -m pip install . && cd -
+  script:
+    - roscore & python3 catkin_ws/src/ros_proseco_planning/python/proseco/testing/tester.py
+    - pkill -9 roscore && pkill -9 rosmaster
