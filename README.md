@@ -8,7 +8,7 @@
 
 ## ProSeCo ROS Interface and Python Package
 
-The ROS interface as well as the Python package for ProSeCo Planning can be found [here](https://github.com/ProSeCo-Planning/ros_proseco_planning).
+The ROS interface, as well as the Python package for ProSeCo Planning, can be found [here](https://github.com/ProSeCo-Planning/ros_proseco_planning).
 
 ## Overview
 
