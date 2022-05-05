@@ -1,0 +1,6 @@
+<map id="proseco_planning::SimulationPolicy" name="proseco_planning::SimulationPolicy">
+<area shape="rect" id="node1" title="The SimulationPolicy class is a base class for all simulation policies, i.e. single threaded and mult..." alt="" coords="136,189,351,369"/>
+<area shape="rect" id="node3" href="$classproseco__planning_1_1SimulationMultiThread.html" title="The SimulationMultiThread class is a multithreaded simulation policy." alt="" coords="5,417,236,612"/>
+<area shape="rect" id="node4" href="$classproseco__planning_1_1SimulationSingleThread.html" title="The SimulationSingleThread class is a singlethreaded simulation policy." alt="" coords="260,461,475,568"/>
+<area shape="rect" id="node2" href="$classproseco__planning_1_1Policy.html" title="The Policy class defines the base class for all policies." alt="" coords="151,5,335,141"/>
+</map>

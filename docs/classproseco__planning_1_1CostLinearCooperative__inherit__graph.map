@@ -1,0 +1,4 @@
+<map id="proseco_planning::CostLinearCooperative" name="proseco_planning::CostLinearCooperative">
+<area shape="rect" id="node1" title="CostLinearCooperative class: Calculates the costs for the MCTS with a linear function as well as Coop..." alt="" coords="5,468,289,956"/>
+<area shape="rect" id="node2" href="$classproseco__planning_1_1CostModel.html" title="Cost Model class: Factory for creating different types of cost models." alt="" coords="17,5,278,420"/>
+</map>

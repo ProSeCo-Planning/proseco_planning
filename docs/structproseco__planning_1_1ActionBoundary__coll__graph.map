@@ -1,0 +1,4 @@
+<map id="proseco_planning::ActionBoundary" name="proseco_planning::ActionBoundary">
+<area shape="rect" id="node1" title="Boundary of an ActionSpaceRectangle." alt="" coords="5,189,191,296"/>
+<area shape="rect" id="node2" href="$structproseco__planning_1_1math_1_1MinMaxPair.html" title=" " alt="" coords="9,5,187,112"/>
+</map>

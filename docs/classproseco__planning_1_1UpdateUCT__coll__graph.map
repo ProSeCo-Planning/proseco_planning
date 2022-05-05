@@ -1,0 +1,5 @@
+<map id="proseco_planning::UpdateUCT" name="proseco_planning::UpdateUCT">
+<area shape="rect" id="node1" title="The UpdateUCT class is an update policy that uses the UCT algorithm." alt="" coords="17,432,236,612"/>
+<area shape="rect" id="node2" href="$classproseco__planning_1_1UpdatePolicy.html" title="The UpdatePolicy class defines the base class for all update policies." alt="" coords="5,189,248,384"/>
+<area shape="rect" id="node3" href="$classproseco__planning_1_1Policy.html" title="The Policy class defines the base class for all policies." alt="" coords="35,5,219,141"/>
+</map>

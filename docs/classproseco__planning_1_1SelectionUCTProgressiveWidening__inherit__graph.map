@@ -1,0 +1,5 @@
+<map id="proseco_planning::SelectionUCTProgressiveWidening" name="proseco_planning::SelectionUCTProgressiveWidening">
+<area shape="rect" id="node1" title="The SelectionUCTProgressiveWidening class uses UCT with progressive widening to create a selection po..." alt="" coords="5,388,276,744"/>
+<area shape="rect" id="node2" href="$classproseco__planning_1_1SelectionPolicy.html" title="The SelectionPolicy class is the base class for all selection policies. It is used to select the best..." alt="" coords="37,189,244,340"/>
+<area shape="rect" id="node3" href="$classproseco__planning_1_1Policy.html" title="The Policy class defines the base class for all policies." alt="" coords="49,5,233,141"/>
+</map>

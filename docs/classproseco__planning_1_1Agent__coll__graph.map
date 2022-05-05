@@ -1,0 +1,6 @@
+<map id="proseco_planning::Agent" name="proseco_planning::Agent">
+<area shape="rect" id="node1" title="Agent class." alt="" coords="297,908,479,1279"/>
+<area shape="rect" id="node2" href="$classproseco__planning_1_1Desire.html" title="Desire class: summarizes the desired state of the agent." alt="" coords="5,335,240,515"/>
+<area shape="rect" id="node3" href="$classproseco__planning_1_1Trajectory.html" title="The Trajectory class defines the trajectory of a vehicle." alt="" coords="264,5,512,845"/>
+<area shape="rect" id="node4" href="$classproseco__planning_1_1Vehicle.html" title="The Vehicle class represents a state of a vehicle." alt="" coords="535,196,782,655"/>
+</map>

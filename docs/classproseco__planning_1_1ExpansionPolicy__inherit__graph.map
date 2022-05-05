@@ -1,0 +1,5 @@
+<map id="proseco_planning::ExpansionPolicy" name="proseco_planning::ExpansionPolicy">
+<area shape="rect" id="node1" title="The ExpansionPolicy class defines the base class for all expansion policies. It is used to expand the..." alt="" coords="19,189,230,340"/>
+<area shape="rect" id="node3" href="$classproseco__planning_1_1ExpansionUCT.html" title="The ExpansionUCT class expands the tree using an action set selected by the UCT algorithm." alt="" coords="5,388,244,480"/>
+<area shape="rect" id="node2" href="$classproseco__planning_1_1Policy.html" title="The Policy class defines the base class for all policies." alt="" coords="33,5,217,141"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="proseco_planning::FinalSelectionPolicy" name="proseco_planning::FinalSelectionPolicy">
+<area shape="rect" id="node1" title="The FinalSelectionPolicy class defines the base class for all final selection policies...." alt="" coords="567,189,802,340"/>
+<area shape="rect" id="node3" href="$classproseco__planning_1_1FinalSelectionKernelRegressionLCB.html" title="Final selection policy that uses kernel regression lower confidence bound values." alt="" coords="5,388,281,641"/>
+<area shape="rect" id="node4" href="$classproseco__planning_1_1FinalSelectionMaxActionValue.html" title="The FinalSelectionMaxActionValue class uses the maximum action value as final selection criterion." alt="" coords="306,447,543,583"/>
+<area shape="rect" id="node5" href="$classproseco__planning_1_1FinalSelectionMaxVisitCount.html" title="The FinalSelectionMaxVisitCount class uses the maximum action visit count as final selection criterio..." alt="" coords="567,447,802,583"/>
+<area shape="rect" id="node6" href="$classproseco__planning_1_1FinalSelectionMostTrusted.html" title="The final selection policy that uses a combination visit counts and action values to select the best ..." alt="" coords="826,425,1066,605"/>
+<area shape="rect" id="node7" href="$classproseco__planning_1_1FinalSelectionSampleExpQ.html" title="The FinalSelectionSampleExpQ class uses exponential action value weighting to create a stochastic fin..." alt="" coords="1090,447,1325,583"/>
+<area shape="rect" id="node2" href="$classproseco__planning_1_1Policy.html" title="The Policy class defines the base class for all policies." alt="" coords="593,5,777,141"/>
+</map>

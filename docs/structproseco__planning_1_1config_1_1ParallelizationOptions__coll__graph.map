@@ -1,0 +1,3 @@
+<map id="proseco_planning::config::ParallelizationOptions" name="proseco_planning::config::ParallelizationOptions">
+<area shape="rect" id="node1" title="The struct that contains the parameters for the parallelization of the MCTS." alt="" coords="5,5,196,185"/>
+</map>

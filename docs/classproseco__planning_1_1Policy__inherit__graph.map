@@ -1,0 +1,18 @@
+<map id="proseco_planning::Policy" name="proseco_planning::Policy">
+<area shape="rect" id="node1" title="The Policy class defines the base class for all policies." alt="" coords="1654,5,1838,141"/>
+<area shape="rect" id="node2" href="$classproseco__planning_1_1ExpansionPolicy.html" title="The ExpansionPolicy class defines the base class for all expansion policies. It is used to expand the..." alt="" coords="307,211,518,362"/>
+<area shape="rect" id="node4" href="$classproseco__planning_1_1FinalSelectionPolicy.html" title="The FinalSelectionPolicy class defines the base class for all final selection policies...." alt="" coords="961,211,1195,362"/>
+<area shape="rect" id="node10" href="$classproseco__planning_1_1SelectionPolicy.html" title="The SelectionPolicy class is the base class for all selection policies. It is used to select the best..." alt="" coords="1643,211,1849,362"/>
+<area shape="rect" id="node12" href="$classproseco__planning_1_1SimulationPolicy.html" title="The SimulationPolicy class is a base class for all simulation policies, i.e. single threaded and mult..." alt="" coords="1913,197,2128,377"/>
+<area shape="rect" id="node15" href="$classproseco__planning_1_1UpdatePolicy.html" title="The UpdatePolicy class defines the base class for all update policies." alt="" coords="2270,189,2513,384"/>
+<area shape="rect" id="node3" href="$classproseco__planning_1_1ExpansionUCT.html" title="The ExpansionUCT class expands the tree using an action set selected by the UCT algorithm." alt="" coords="5,564,244,656"/>
+<area shape="rect" id="node5" href="$classproseco__planning_1_1FinalSelectionKernelRegressionLCB.html" title="Final selection policy that uses kernel regression lower confidence bound values." alt="" coords="268,483,544,737"/>
+<area shape="rect" id="node6" href="$classproseco__planning_1_1FinalSelectionMaxActionValue.html" title="The FinalSelectionMaxActionValue class uses the maximum action value as final selection criterion." alt="" coords="569,542,806,678"/>
+<area shape="rect" id="node7" href="$classproseco__planning_1_1FinalSelectionMaxVisitCount.html" title="The FinalSelectionMaxVisitCount class uses the maximum action visit count as final selection criterio..." alt="" coords="830,542,1065,678"/>
+<area shape="rect" id="node8" href="$classproseco__planning_1_1FinalSelectionMostTrusted.html" title="The final selection policy that uses a combination visit counts and action values to select the best ..." alt="" coords="1089,520,1329,700"/>
+<area shape="rect" id="node9" href="$classproseco__planning_1_1FinalSelectionSampleExpQ.html" title="The FinalSelectionSampleExpQ class uses exponential action value weighting to create a stochastic fin..." alt="" coords="1353,542,1587,678"/>
+<area shape="rect" id="node11" href="$classproseco__planning_1_1SelectionUCTProgressiveWidening.html" title="The SelectionUCTProgressiveWidening class uses UCT with progressive widening to create a selection po..." alt="" coords="1611,432,1881,788"/>
+<area shape="rect" id="node13" href="$classproseco__planning_1_1SimulationMultiThread.html" title="The SimulationMultiThread class is a multithreaded simulation policy." alt="" coords="1905,513,2136,707"/>
+<area shape="rect" id="node14" href="$classproseco__planning_1_1SimulationSingleThread.html" title="The SimulationSingleThread class is a singlethreaded simulation policy." alt="" coords="2160,557,2375,663"/>
+<area shape="rect" id="node16" href="$classproseco__planning_1_1UpdateUCT.html" title="The UpdateUCT class is an update policy that uses the UCT algorithm." alt="" coords="2399,520,2618,700"/>
+</map>

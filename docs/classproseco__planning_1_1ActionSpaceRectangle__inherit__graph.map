@@ -1,0 +1,4 @@
+<map id="proseco_planning::ActionSpaceRectangle" name="proseco_planning::ActionSpaceRectangle">
+<area shape="rect" id="node1" title="This action space is shaped like a rectangle, which is specified by the maximum velocity change and t..." alt="" coords="5,321,269,721"/>
+<area shape="rect" id="node2" href="$classproseco__planning_1_1ActionSpace.html" title="An action space defines the space of all possible actions that an agent can take. Furthermore,..." alt="" coords="21,5,254,273"/>
+</map>

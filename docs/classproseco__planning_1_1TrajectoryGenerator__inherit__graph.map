@@ -1,0 +1,5 @@
+<map id="proseco_planning::TrajectoryGenerator" name="proseco_planning::TrajectoryGenerator">
+<area shape="rect" id="node1" title=" " alt="" coords="142,5,405,229"/>
+<area shape="rect" id="node2" href="$classproseco__planning_1_1ConstantAcceleration.html" title=" " alt="" coords="5,365,261,545"/>
+<area shape="rect" id="node3" href="$classproseco__planning_1_1PolynomialGenerator.html" title=" " alt="" coords="285,277,541,633"/>
+</map>

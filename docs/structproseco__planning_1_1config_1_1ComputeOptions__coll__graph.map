@@ -1,0 +1,16 @@
+<map id="proseco_planning::config::ComputeOptions" name="proseco_planning::config::ComputeOptions">
+<area shape="rect" id="node1" title="The struct that contains the hyperparameters necessary for the computation of the MCTS." alt="" coords="343,888,533,1215"/>
+<area shape="rect" id="node2" href="$structproseco__planning_1_1config_1_1ParallelizationOptions.html" title="The struct that contains the parameters for the parallelization of the MCTS." alt="" coords="60,645,251,825"/>
+<area shape="rect" id="node3" href="$structproseco__planning_1_1config_1_1Noise.html" title="The struct that contains the parameters for generating noise in general." alt="" coords="275,660,457,811"/>
+<area shape="rect" id="node4" href="$structproseco__planning_1_1config_1_1PolicyOptions.html" title="The struct that contains the parameters for the PolicyOptions." alt="" coords="481,645,664,825"/>
+<area shape="rect" id="node5" href="$structproseco__planning_1_1config_1_1KernelRegressionLCB.html" title="The struct that contains the parameters for KernelRegressionLCB." alt="" coords="247,461,429,568"/>
+<area shape="rect" id="node6" href="$structproseco__planning_1_1config_1_1KernelRegressionLCB_1_1Action.html" title="The parameters for regression of actions." alt="" coords="5,241,223,362"/>
+<area shape="rect" id="node7" href="$structproseco__planning_1_1config_1_1KernelRegressionLCB_1_1ActionClass.html" title="The parameters for regression of action classes." alt="" coords="247,233,429,369"/>
+<area shape="rect" id="node8" href="$structproseco__planning_1_1config_1_1PolicyEnhancements.html" title="The struct that contains the bundled information about the search in continous action spaces necessar..." alt="" coords="649,447,853,583"/>
+<area shape="rect" id="node9" href="$structproseco__planning_1_1config_1_1SimilarityUpdate.html" title="The struct that contains the parameters for the similarity update, used for evaluating similar action..." alt="" coords="453,233,636,369"/>
+<area shape="rect" id="node10" href="$structproseco__planning_1_1config_1_1SearchGuide.html" title="The struct that contains the parameters for the search guide, used for exploration." alt="" coords="660,233,843,369"/>
+<area shape="rect" id="node11" href="$structproseco__planning_1_1config_1_1ProgressiveWidening.html" title="The struct that contains the the parameters for progressive widening in the MCTS." alt="" coords="867,226,1051,377"/>
+<area shape="rect" id="node12" href="$structproseco__planning_1_1config_1_1MoveGrouping.html" title="The struct that contains the the parameters for move grouping." alt="" coords="1076,219,1275,384"/>
+<area shape="rect" id="node13" href="$structproseco__planning_1_1config_1_1MoveGroupingCriteriaPW.html" title="The struct that contains the parameters responsible for move grouping in progressive widening." alt="" coords="1070,5,1281,156"/>
+<area shape="rect" id="node14" href="$structproseco__planning_1_1config_1_1ActionNoise.html" title="The struct that contains the parameters for generating noise particularly for actions." alt="" coords="688,645,871,825"/>
+</map>

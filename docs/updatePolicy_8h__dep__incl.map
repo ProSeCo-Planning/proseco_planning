@@ -1,0 +1,8 @@
+<map id="/home/karl/git/release/proseco_planning/include/proseco_planning/policies/updatePolicy.h" name="/home/karl/git/release/proseco_planning/include/proseco_planning/policies/updatePolicy.h">
+<area shape="rect" id="node1" title="This file defines the UpdatePolicy class, the base class for all update policies." alt="" coords="234,5,429,76"/>
+<area shape="rect" id="node2" href="$monteCarloTreeSearch_8cpp.html" title=" " alt="" coords="5,243,252,313"/>
+<area shape="rect" id="node3" href="$updatePolicy_8cpp.html" title=" " alt="" coords="314,243,509,313"/>
+<area shape="rect" id="node4" href="$monteCarloTreeSearch_8h.html" title="This file defines the key functions for the Monte Carlo Tree Search." alt="" coords="128,124,375,195"/>
+<area shape="rect" id="node5" href="$updateUCT_8h.html" title="The file defines the UpdateUCT class." alt="" coords="449,124,643,195"/>
+<area shape="rect" id="node6" href="$updateUCT_8cpp.html" title=" " alt="" coords="533,243,727,313"/>
+</map>

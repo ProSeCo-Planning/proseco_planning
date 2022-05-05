@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classproseco__planning_1_1SearchGuide.html" title="The SearchGuide class defines the base class for all search guides. The search guide guides the searc..." alt="" coords="5,39,193,80"/>
+<area shape="rect" id="node2" href="$classproseco__planning_1_1SearchGuideBlindValue.html" title="The SearchGuideBlindValue class determines the best action for progressive widening based on &quot;blind v..." alt="" coords="241,5,429,47"/>
+<area shape="rect" id="node3" href="$classproseco__planning_1_1SearchGuideRandom.html" title="The SearchGuideRandom class determines the best action for progressive widening using random sampling..." alt="" coords="241,71,429,112"/>
+</map>

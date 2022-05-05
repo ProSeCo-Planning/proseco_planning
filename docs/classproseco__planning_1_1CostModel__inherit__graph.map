@@ -1,0 +1,8 @@
+<map id="proseco_planning::CostModel" name="proseco_planning::CostModel">
+<area shape="rect" id="node1" title="Cost Model class: Factory for creating different types of cost models." alt="" coords="534,5,795,420"/>
+<area shape="rect" id="node2" href="$classproseco__planning_1_1CostContinuous.html" title="CostContinuous class: Calculates the costs for the continuous MCTS." alt="" coords="5,637,252,787"/>
+<area shape="rect" id="node3" href="$classproseco__planning_1_1CostExponential.html" title="CostContinuous class: Calculates the detailed cost for the continuous MCTS search implemented with ex..." alt="" coords="277,607,527,817"/>
+<area shape="rect" id="node4" href="$classproseco__planning_1_1CostLinear.html" title="CostLinear class: Calculates the costs for the MCTS with a linear function." alt="" coords="551,585,778,839"/>
+<area shape="rect" id="node5" href="$classproseco__planning_1_1CostLinearCooperative.html" title="CostLinearCooperative class: Calculates the costs for the MCTS with a linear function as well as Coop..." alt="" coords="803,468,1087,956"/>
+<area shape="rect" id="node6" href="$classproseco__planning_1_1CostNonLinear.html" title="CostNonLinear class: Calculates the costs for the MCTS with a non linear function." alt="" coords="1111,534,1341,890"/>
+</map>

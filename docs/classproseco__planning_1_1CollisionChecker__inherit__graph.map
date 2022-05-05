@@ -1,0 +1,4 @@
+<map id="proseco_planning::CollisionChecker" name="proseco_planning::CollisionChecker">
+<area shape="rect" id="node1" title="CollisionChecker base class: includes the checks for collision between all possible objects." alt="" coords="41,5,241,229"/>
+<area shape="rect" id="node2" href="$classproseco__planning_1_1CollisionCheckerCircleApproximation.html" title="The collision checker class." alt="" coords="5,277,276,633"/>
+</map>

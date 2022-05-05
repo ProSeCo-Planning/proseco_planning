@@ -1,0 +1,5 @@
+<map id="proseco_planning::config::KernelRegressionLCB" name="proseco_planning::config::KernelRegressionLCB">
+<area shape="rect" id="node1" title="The struct that contains the parameters for KernelRegressionLCB." alt="" coords="135,204,317,311"/>
+<area shape="rect" id="node2" href="$structproseco__planning_1_1config_1_1KernelRegressionLCB_1_1Action.html" title="The parameters for regression of actions." alt="" coords="5,13,223,134"/>
+<area shape="rect" id="node3" href="$structproseco__planning_1_1config_1_1KernelRegressionLCB_1_1ActionClass.html" title="The parameters for regression of action classes." alt="" coords="247,5,429,141"/>
+</map>

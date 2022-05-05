@@ -1,0 +1,4 @@
+<map id="proseco_planning::Action" name="proseco_planning::Action">
+<area shape="rect" id="node1" title="The Action class is a generic class for actions." alt="" coords="5,233,191,516"/>
+<area shape="rect" id="node2" href="$structproseco__planning_1_1ActionNoise.html" title="This struct defines the estimations for the behavior of the vehicle when noise was added to the actio..." alt="" coords="5,5,191,171"/>
+</map>

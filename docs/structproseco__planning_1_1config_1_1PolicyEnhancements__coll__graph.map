@@ -1,0 +1,8 @@
+<map id="proseco_planning::config::PolicyEnhancements" name="proseco_planning::config::PolicyEnhancements">
+<area shape="rect" id="node1" title="The struct that contains the bundled information about the search in continous action spaces necessar..." alt="" coords="305,447,509,583"/>
+<area shape="rect" id="node2" href="$structproseco__planning_1_1config_1_1SimilarityUpdate.html" title="The struct that contains the parameters for the similarity update, used for evaluating similar action..." alt="" coords="5,233,188,369"/>
+<area shape="rect" id="node3" href="$structproseco__planning_1_1config_1_1SearchGuide.html" title="The struct that contains the parameters for the search guide, used for exploration." alt="" coords="212,233,395,369"/>
+<area shape="rect" id="node4" href="$structproseco__planning_1_1config_1_1ProgressiveWidening.html" title="The struct that contains the the parameters for progressive widening in the MCTS." alt="" coords="419,226,603,377"/>
+<area shape="rect" id="node5" href="$structproseco__planning_1_1config_1_1MoveGrouping.html" title="The struct that contains the the parameters for move grouping." alt="" coords="628,219,827,384"/>
+<area shape="rect" id="node6" href="$structproseco__planning_1_1config_1_1MoveGroupingCriteriaPW.html" title="The struct that contains the parameters responsible for move grouping in progressive widening." alt="" coords="622,5,833,156"/>
+</map>

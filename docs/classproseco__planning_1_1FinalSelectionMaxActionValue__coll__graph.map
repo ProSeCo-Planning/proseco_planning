@@ -1,0 +1,5 @@
+<map id="proseco_planning::FinalSelectionMaxActionValue" name="proseco_planning::FinalSelectionMaxActionValue">
+<area shape="rect" id="node1" title="The FinalSelectionMaxActionValue class uses the maximum action value as final selection criterion." alt="" coords="5,388,243,524"/>
+<area shape="rect" id="node2" href="$classproseco__planning_1_1FinalSelectionPolicy.html" title="The FinalSelectionPolicy class defines the base class for all final selection policies...." alt="" coords="7,189,241,340"/>
+<area shape="rect" id="node3" href="$classproseco__planning_1_1Policy.html" title="The Policy class defines the base class for all policies." alt="" coords="32,5,216,141"/>
+</map>

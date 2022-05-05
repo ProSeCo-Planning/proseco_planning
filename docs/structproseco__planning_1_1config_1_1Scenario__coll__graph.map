@@ -1,0 +1,4 @@
+<map id="proseco_planning::config::Scenario" name="proseco_planning::config::Scenario">
+<area shape="rect" id="node1" title="The simulated scenario." alt="" coords="5,233,188,384"/>
+<area shape="rect" id="node2" href="$structproseco__planning_1_1config_1_1Road.html" title="The specification of the road." alt="" coords="5,5,188,171"/>
+</map>

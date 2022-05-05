@@ -1,0 +1,3 @@
+<map id="proseco_planning::config::Obstacle" name="proseco_planning::config::Obstacle">
+<area shape="rect" id="node1" title="The struct that contains the specifications of the obstacles involved in a scenario." alt="" coords="5,5,188,288"/>
+</map>

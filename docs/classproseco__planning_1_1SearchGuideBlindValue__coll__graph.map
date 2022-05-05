@@ -1,0 +1,4 @@
+<map id="proseco_planning::SearchGuideBlindValue" name="proseco_planning::SearchGuideBlindValue">
+<area shape="rect" id="node1" title="The SearchGuideBlindValue class determines the best action for progressive widening based on &quot;blind v..." alt="" coords="5,219,240,413"/>
+<area shape="rect" id="node2" href="$classproseco__planning_1_1SearchGuide.html" title="The SearchGuide class defines the base class for all search guides. The search guide guides the searc..." alt="" coords="15,5,231,171"/>
+</map>

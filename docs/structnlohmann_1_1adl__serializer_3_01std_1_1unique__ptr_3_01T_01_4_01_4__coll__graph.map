@@ -1,0 +1,3 @@
+<map id="nlohmann::adl_serializer&lt; std::unique_ptr&lt; T &gt; &gt;" name="nlohmann::adl_serializer&lt; std::unique_ptr&lt; T &gt; &gt;">
+<area shape="rect" id="node1" title="Function to allow conversion of a unique_ptr&lt;T&gt; to a JSON object." alt="" coords="5,5,192,97"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="/home/karl/git/release/proseco_planning/include/proseco_planning/policies/selectionPolicy.h" name="/home/karl/git/release/proseco_planning/include/proseco_planning/policies/selectionPolicy.h">
+<area shape="rect" id="node1" title="The SelectionPolicy class is the base class for all selection policies. It is used to select the best..." alt="" coords="234,5,429,76"/>
+<area shape="rect" id="node2" href="$monteCarloTreeSearch_8cpp.html" title=" " alt="" coords="5,250,252,321"/>
+<area shape="rect" id="node3" href="$selectionPolicy_8cpp.html" title=" " alt="" coords="314,250,509,321"/>
+<area shape="rect" id="node4" href="$monteCarloTreeSearch_8h.html" title="This file defines the key functions for the Monte Carlo Tree Search." alt="" coords="128,124,375,195"/>
+<area shape="rect" id="node5" href="$selectionUCTProgressiveWidening_8h.html" title="This file defines the SelectionUCTProgressiveWidening class." alt="" coords="449,124,773,195"/>
+<area shape="rect" id="node6" href="$selectionUCTProgressiveWidening_8cpp.html" title=" " alt="" coords="533,243,783,328"/>
+</map>

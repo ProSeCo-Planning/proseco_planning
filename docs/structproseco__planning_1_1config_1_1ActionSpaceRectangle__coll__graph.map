@@ -1,0 +1,3 @@
+<map id="proseco_planning::config::ActionSpaceRectangle" name="proseco_planning::config::ActionSpaceRectangle">
+<area shape="rect" id="node1" title="The struct that contains the information about the action space in form of a rectangle." alt="" coords="5,5,197,171"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="proseco_planning::config::Agent" name="proseco_planning::config::Agent">
+<area shape="rect" id="node1" title="The agent." alt="" coords="397,483,579,648"/>
+<area shape="rect" id="node2" href="$classproseco__planning_1_1CostModel.html" title="Cost Model class: Factory for creating different types of cost models." alt="" coords="5,5,267,420"/>
+<area shape="rect" id="node3" href="$structproseco__planning_1_1config_1_1TerminalCondition.html" title="The struct that contains the terminal condition." alt="" coords="291,130,477,295"/>
+<area shape="rect" id="node4" href="$structproseco__planning_1_1config_1_1Desire.html" title="The struct that contains the desire of the agent." alt="" coords="502,130,685,295"/>
+<area shape="rect" id="node5" href="$structproseco__planning_1_1config_1_1Vehicle.html" title="The specification of the vehicle." alt="" coords="709,79,891,347"/>
+</map>

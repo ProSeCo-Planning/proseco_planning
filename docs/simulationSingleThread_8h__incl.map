@@ -1,0 +1,20 @@
+<map id="/home/karl/git/release/proseco_planning/include/proseco_planning/policies/simulation/simulationSingleThread.h" name="/home/karl/git/release/proseco_planning/include/proseco_planning/policies/simulation/simulationSingleThread.h">
+<area shape="rect" id="node1" title="This file defines the SimulationSingleThread class." alt="" coords="281,5,546,76"/>
+<area shape="rect" id="node2" title=" " alt="" coords="951,467,1009,493"/>
+<area shape="rect" id="node3" title=" " alt="" coords="190,467,253,493"/>
+<area shape="rect" id="node4" href="$simulationPolicy_8h.html" title="This file defines the SimulationPolicy class, the base class for all simulation policies." alt="" coords="318,124,509,165"/>
+<area shape="rect" id="node5" title=" " alt="" coords="309,392,387,419"/>
+<area shape="rect" id="node6" href="$policy_8h.html" title="This file defines the Policy class, the base class for all policies." alt="" coords="213,221,283,247"/>
+<area shape="rect" id="node8" href="$collisionChecker_8h.html" title="This file defines the CollisionChecker class." alt="" coords="608,213,808,255"/>
+<area shape="rect" id="node17" href="$trajectorygenerator_8h.html" title="This file defines the TrajectoryGenerator class, it is the base class for all trajectory generators." alt="" coords="381,213,584,255"/>
+<area shape="rect" id="node7" href="$alias_8h.html" title="A collection of aliases for common types." alt="" coords="145,303,306,344"/>
+<area shape="rect" id="node9" href="$configuration_8h.html" title="This file defines the configuration for the execution of the ProSeCo planner." alt="" coords="613,303,792,344"/>
+<area shape="rect" id="node10" title=" " alt="" coords="675,467,821,493"/>
+<area shape="rect" id="node11" href="$computeOptions_8h.html" title="This file defines the configuration related to the compute options." alt="" coords="776,392,917,419"/>
+<area shape="rect" id="node13" href="$outputOptions_8h.html" title="This file defines the output configuration." alt="" coords="625,392,751,419"/>
+<area shape="rect" id="node14" href="$scenarioOptions_8h.html" title="This file defines the scenario configuration." alt="" coords="411,392,549,419"/>
+<area shape="rect" id="node12" title=" " alt="" coords="555,467,651,493"/>
+<area shape="rect" id="node15" title=" " alt="" coords="390,467,530,493"/>
+<area shape="rect" id="node16" title=" " alt="" coords="298,467,366,493"/>
+<area shape="rect" id="node18" title=" " alt="" coords="433,310,487,337"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="proseco_planning::FinalSelectionKernelRegressionLCB" name="proseco_planning::FinalSelectionKernelRegressionLCB">
+<area shape="rect" id="node1" title="Final selection policy that uses kernel regression lower confidence bound values." alt="" coords="5,388,281,641"/>
+<area shape="rect" id="node2" href="$classproseco__planning_1_1FinalSelectionPolicy.html" title="The FinalSelectionPolicy class defines the base class for all final selection policies...." alt="" coords="26,189,261,340"/>
+<area shape="rect" id="node3" href="$classproseco__planning_1_1Policy.html" title="The Policy class defines the base class for all policies." alt="" coords="51,5,235,141"/>
+</map>

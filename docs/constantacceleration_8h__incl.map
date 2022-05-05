@@ -1,0 +1,9 @@
+<map id="/home/karl/git/release/proseco_planning/include/proseco_planning/trajectory/constantacceleration.h" name="/home/karl/git/release/proseco_planning/include/proseco_planning/trajectory/constantacceleration.h">
+<area shape="rect" id="node1" title="This file defines the ConstantAcceleration class." alt="" coords="15,5,222,76"/>
+<area shape="rect" id="node2" title=" " alt="" coords="28,206,83,233"/>
+<area shape="rect" id="node3" title=" " alt="" coords="90,288,152,315"/>
+<area shape="rect" id="node4" href="$alias_8h.html" title="A collection of aliases for common types." alt="" coords="292,199,454,240"/>
+<area shape="rect" id="node6" href="$trajectorygenerator_8h.html" title="This file defines the TrajectoryGenerator class, it is the base class for all trajectory generators." alt="" coords="104,124,263,151"/>
+<area shape="rect" id="node5" title=" " alt="" coords="274,288,352,315"/>
+<area shape="rect" id="node7" title=" " alt="" coords="158,206,217,233"/>
+</map>

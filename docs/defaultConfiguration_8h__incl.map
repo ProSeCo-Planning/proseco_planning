@@ -1,0 +1,14 @@
+<map id="/home/karl/git/release/proseco_planning/include/proseco_planning/config/defaultConfiguration.h" name="/home/karl/git/release/proseco_planning/include/proseco_planning/config/defaultConfiguration.h">
+<area shape="rect" id="node1" title="This file defines the default configuration for the execution of the ProSeCo planner,..." alt="" coords="194,5,384,76"/>
+<area shape="rect" id="node2" title=" " alt="" coords="55,273,118,300"/>
+<area shape="rect" id="node3" href="$configuration_8h.html" title="This file defines the configuration for the execution of the ProSeCo planner." alt="" coords="230,124,348,151"/>
+<area shape="rect" id="node6" href="$computeOptions_8h.html" title="This file defines the configuration related to the compute options." alt="" coords="326,199,468,225"/>
+<area shape="rect" id="node9" href="$outputOptions_8h.html" title="This file defines the output configuration." alt="" coords="23,199,150,225"/>
+<area shape="rect" id="node10" href="$scenarioOptions_8h.html" title="This file defines the scenario configuration." alt="" coords="492,199,630,225"/>
+<area shape="rect" id="node4" title=" " alt="" coords="174,199,252,225"/>
+<area shape="rect" id="node5" title=" " alt="" coords="197,273,344,300"/>
+<area shape="rect" id="node7" title=" " alt="" coords="450,273,546,300"/>
+<area shape="rect" id="node8" title=" " alt="" coords="368,273,426,300"/>
+<area shape="rect" id="node11" title=" " alt="" coords="571,273,711,300"/>
+<area shape="rect" id="node12" title=" " alt="" coords="735,273,803,300"/>
+</map>

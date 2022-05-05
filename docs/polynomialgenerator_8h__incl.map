@@ -1,0 +1,11 @@
+<map id="/home/karl/git/release/proseco_planning/include/proseco_planning/trajectory/polynomialgenerator.h" name="/home/karl/git/release/proseco_planning/include/proseco_planning/trajectory/polynomialgenerator.h">
+<area shape="rect" id="node1" title="This file defines the PolynomialGenerator class." alt="" coords="135,5,341,76"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,124,76,151"/>
+<area shape="rect" id="node3" title=" " alt="" coords="152,206,207,233"/>
+<area shape="rect" id="node4" title=" " alt="" coords="213,288,276,315"/>
+<area shape="rect" id="node5" title=" " alt="" coords="452,124,592,151"/>
+<area shape="rect" id="node6" href="$alias_8h.html" title="A collection of aliases for common types." alt="" coords="416,199,577,240"/>
+<area shape="rect" id="node8" href="$trajectorygenerator_8h.html" title="This file defines the TrajectoryGenerator class, it is the base class for all trajectory generators." alt="" coords="217,124,376,151"/>
+<area shape="rect" id="node7" title=" " alt="" coords="398,288,475,315"/>
+<area shape="rect" id="node9" title=" " alt="" coords="282,206,341,233"/>
+</map>

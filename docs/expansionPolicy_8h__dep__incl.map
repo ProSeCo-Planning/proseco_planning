@@ -1,0 +1,8 @@
+<map id="/home/karl/git/release/proseco_planning/include/proseco_planning/policies/expansionPolicy.h" name="/home/karl/git/release/proseco_planning/include/proseco_planning/policies/expansionPolicy.h">
+<area shape="rect" id="node1" title="This file defines the ExpansionPolicy class, the base class for all expansion policies...." alt="" coords="234,5,429,76"/>
+<area shape="rect" id="node2" href="$monteCarloTreeSearch_8cpp.html" title=" " alt="" coords="5,243,252,313"/>
+<area shape="rect" id="node3" href="$expansionPolicy_8cpp.html" title=" " alt="" coords="314,243,509,313"/>
+<area shape="rect" id="node4" href="$monteCarloTreeSearch_8h.html" title="This file defines the key functions for the Monte Carlo Tree Search." alt="" coords="128,124,375,195"/>
+<area shape="rect" id="node5" href="$expansionUCT_8h.html" title="This file defines the ExpansionUCT class." alt="" coords="449,124,651,195"/>
+<area shape="rect" id="node6" href="$expansionUCT_8cpp.html" title=" " alt="" coords="533,243,751,313"/>
+</map>

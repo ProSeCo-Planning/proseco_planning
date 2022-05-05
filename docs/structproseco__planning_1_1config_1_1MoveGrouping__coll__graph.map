@@ -1,0 +1,4 @@
+<map id="proseco_planning::config::MoveGrouping" name="proseco_planning::config::MoveGrouping">
+<area shape="rect" id="node1" title="The struct that contains the the parameters for move grouping." alt="" coords="11,219,210,384"/>
+<area shape="rect" id="node2" href="$structproseco__planning_1_1config_1_1MoveGroupingCriteriaPW.html" title="The struct that contains the parameters responsible for move grouping in progressive widening." alt="" coords="5,5,216,156"/>
+</map>

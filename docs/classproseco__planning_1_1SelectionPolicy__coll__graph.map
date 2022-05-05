@@ -1,0 +1,4 @@
+<map id="proseco_planning::SelectionPolicy" name="proseco_planning::SelectionPolicy">
+<area shape="rect" id="node1" title="The SelectionPolicy class is the base class for all selection policies. It is used to select the best..." alt="" coords="5,189,212,340"/>
+<area shape="rect" id="node2" href="$classproseco__planning_1_1Policy.html" title="The Policy class defines the base class for all policies." alt="" coords="17,5,201,141"/>
+</map>

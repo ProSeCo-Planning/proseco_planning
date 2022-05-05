@@ -1,0 +1,4 @@
+<map id="proseco_planning::SearchGuideRandom" name="proseco_planning::SearchGuideRandom">
+<area shape="rect" id="node1" title="The SearchGuideRandom class determines the best action for progressive widening using random sampling..." alt="" coords="5,219,221,355"/>
+<area shape="rect" id="node2" href="$classproseco__planning_1_1SearchGuide.html" title="The SearchGuide class defines the base class for all search guides. The search guide guides the searc..." alt="" coords="5,5,221,171"/>
+</map>
