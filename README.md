@@ -5,6 +5,7 @@
 - [ProSeCo Planning - Probabilistic Semantic Cooperative Planning](#proseco---probabilistic-semantic-cooperative-planning)
   - [Overview](#Overview)
   - [Setup](#Setup)
+  - [Citation](#Citation)
 
 ## ProSeCo ROS Interface and Python Package
 
