@@ -25,3 +25,6 @@ The ROS interface, as well as the Python package for ProSeCo Planning, can be fo
 
 ## Setup
 Please follow the instructions in the [ProSeCo Planning workspace](https://github.com/ProSeCo-Planning/proseco_workspace#setup) to get started with the library.
+
+## Citation 
+Please refer to the respective [publication](https://github.com/ProSeCo-Planning#citation) if you are using it for your work. Thank you very much 🙂!
