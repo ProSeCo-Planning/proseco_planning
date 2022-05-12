@@ -1,4 +1,4 @@
-# ProSeCo Planning - Probabilistic Semantic Cooperative Planning
+# [ProSeCo Planning](https://github.com/ProSeCo-Planning) - Probabilistic Semantic Cooperative Planning
 
 ## Table of Contents
 
@@ -13,6 +13,7 @@
 The ROS interface, as well as the Python package for ProSeCo Planning, can be found [here](https://github.com/ProSeCo-Planning/ros_proseco_planning).
 
 ## Overview
+An introduction to the project can be found [here](https://github.com/ProSeCo-Planning).
 
     ├── README.md              # this file
     ├── CMakeLists.txt         # Project level CMake file
